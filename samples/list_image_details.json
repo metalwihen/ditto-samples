@@ -5,7 +5,7 @@
 				"id": "1",
 				"title": "John Doe",
 				"subtitle": "President of the WhoWho Club",
-				"imageUrl": "https://avat.s/p.png",
+				"imageUrl": "http://placebeard.it/250/250",
 				"imageShape": "CUT_CORNERS"
 			}
 		},
@@ -23,7 +23,7 @@
 				"id": "2",
 				"title": "John Doe",
 				"subtitle": "President of the WhereWhere Club",
-				"imageUrl": "https://avat.s/p.png",
+				"imageUrl": "http://placebeard.it/250/250",
 				"imageShape": "SQUARE"
 			}
 		},
@@ -41,7 +41,7 @@
 				"id": "3",
 				"title": "John Doe",
 				"subtitle": "President of the WhyWhy Club",
-				"imageUrl": "https://avat.s/p.png",
+				"imageUrl": "http://placebeard.it/250/250",
 				"imageShape": "ROUNDED_CORNERS"
 			}
 		},
