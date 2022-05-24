@@ -1,0 +1,55 @@
+[{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "1",
+				"title": "John Doe",
+				"subtitle": "President of the WhoWho Club",
+				"imageUrl": "https://avat.s/p.png",
+				"imageShape": "CUT_CORNERS"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "1111"
+			}
+		}
+	},
+	{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "2",
+				"title": "John Doe",
+				"subtitle": "President of the WhereWhere Club",
+				"imageUrl": "https://avat.s/p.png",
+				"imageShape": "SQUARE"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "2222"
+			}
+		}
+	},
+	{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "3",
+				"title": "John Doe",
+				"subtitle": "President of the WhyWhy Club",
+				"imageUrl": "https://avat.s/p.png",
+				"imageShape": "ROUNDED_CORNERS"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "3333"
+			}
+		}
+	}
+]
