@@ -1,0 +1,55 @@
+[{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "1",
+				"title": "John Doe",
+				"subtitle": "President of the WhoWho Club",
+				"imageUrl": "http://placebeard.it/250/250",
+				"imageShape": "CUT_CORNERS"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "1111"
+			}
+		}
+	},
+	{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "2",
+				"title": "John Doe",
+				"subtitle": "President of the WhereWhere Club",
+				"imageUrl": "http://placebeard.it/250/250",
+				"imageShape": "SQUARE"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "2222"
+			}
+		}
+	},
+	{
+		"view": {
+			"type": "view:ImageDetails1",
+			"data": {
+				"id": "3",
+				"title": "John Doe",
+				"subtitle": "President of the WhyWhy Club",
+				"imageUrl": "http://placebeard.it/250/250",
+				"imageShape": "ROUNDED_CORNERS"
+			}
+		},
+		"action": {
+			"type": "action:PhoneCall",
+			"data": {
+				"phoneNumber": "3333"
+			}
+		}
+	}
+]
